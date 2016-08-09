@@ -25,6 +25,7 @@ property = ["Cost", "Calories", "CaloriesFromFat", "TotalFat", "SaturatedFat",
 # Example Calls:
 ```
 api/menu/drinks
+api/menu/combos
 api/sort/all/sodium
 api/value/food/calories?reverse=true
 ```
@@ -82,6 +83,6 @@ api/value/food/calories?reverse=true
 ```
 
 ## ToDo:
-* Add combos
+* Add more combos
 * Limit returned items
 * Return list of items with the best value based on attribute given a dollar amount (float)
