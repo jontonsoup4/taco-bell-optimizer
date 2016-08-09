@@ -12,7 +12,8 @@
     "Carbohydrates": 57,
     "dietaryFiber": 7,
     "sugars": 4,
-    "protein": 14
+    "protein": 14,
+    "updated": "2016-08-09"
   },
   {
     "name": "Bean Burrito",
@@ -27,7 +28,8 @@
     "Carbohydrates": 55,
     "dietaryFiber": 9,
     "sugars": 3,
-    "protein": 14
+    "protein": 14,
+    "updated": "2016-08-09"
   },
   {
     "name": "Beefy 5-Layer Burrito",
@@ -42,7 +44,8 @@
     "Carbohydrates": 63,
     "dietaryFiber": 8,
     "sugars": 5,
-    "protein": 19
+    "protein": 19,
+    "updated": "2016-08-09"
   },
   {
     "name": "Beefy Fritos® Burrito",
@@ -57,7 +60,8 @@
     "Carbohydrates": 55,
     "dietaryFiber": 4,
     "sugars": 3,
-    "protein": 13
+    "protein": 13,
+    "updated": "2016-08-09"
   },
   {
     "name": "Beefy Mini Quesadilla",
@@ -72,7 +76,8 @@
     "Carbohydrates": 17,
     "dietaryFiber": 3,
     "sugars": 1,
-    "protein": 9
+    "protein": 9,
+    "updated": "2016-08-09"
   },
   {
     "name": "Beefy Nacho Loaded Griller",
@@ -87,7 +92,8 @@
     "Carbohydrates": 47,
     "dietaryFiber": 5,
     "sugars": 3,
-    "protein": 12
+    "protein": 12,
+    "updated": "2016-08-09"
   },
   {
     "name": "Black Bean Burrito",
@@ -102,7 +108,8 @@
     "Carbohydrates": 57,
     "dietaryFiber": 8,
     "sugars": 3,
-    "protein": 14
+    "protein": 14,
+    "updated": "2016-08-09"
   },
   {
     "name": "Black Beans",
@@ -117,7 +124,8 @@
     "Carbohydrates": 12,
     "dietaryFiber": 5,
     "sugars": 0,
-    "protein": 4
+    "protein": 4,
+    "updated": "2016-08-09"
   },
   {
     "name": "Black Beans & Rice",
@@ -132,7 +140,8 @@
     "Carbohydrates": 30,
     "dietaryFiber": 5,
     "sugars": 0,
-    "protein": 6
+    "protein": 6,
+    "updated": "2016-08-09"
   },
   {
     "name": "Breakfast Crunchwrap - Bacon",
@@ -147,7 +156,8 @@
     "Carbohydrates": 51,
     "dietaryFiber": 4,
     "sugars": 3,
-    "protein": 21
+    "protein": 21,
+    "updated": "2016-08-09"
   },
   {
     "name": "Breakfast Crunchwrap - California",
@@ -162,7 +172,8 @@
     "Carbohydrates": 52,
     "dietaryFiber": 5,
     "sugars": 3,
-    "protein": 21
+    "protein": 21,
+    "updated": "2016-08-09"
   },
   {
     "name": "Breakfast Crunchwrap - Sausage",
@@ -177,7 +188,8 @@
     "Carbohydrates": 51,
     "dietaryFiber": 4,
     "sugars": 3,
-    "protein": 21
+    "protein": 21,
+    "updated": "2016-08-09"
   },
   {
     "name": "Breakfast Crunchwrap - Steak",
@@ -192,7 +204,8 @@
     "Carbohydrates": 51,
     "dietaryFiber": 4,
     "sugars": 3,
-    "protein": 24
+    "protein": 24,
+    "updated": "2016-08-09"
   },
   {
     "name": "Breakfast Soft Taco - Bacon",
@@ -207,7 +220,8 @@
     "Carbohydrates": 15,
     "dietaryFiber": 0,
     "sugars": 1,
-    "protein": 11
+    "protein": 11,
+    "updated": "2016-08-09"
   },
   {
     "name": "Breakfast Soft Taco - Egg & Cheese",
@@ -222,7 +236,8 @@
     "Carbohydrates": 15,
     "dietaryFiber": 0,
     "sugars": 0,
-    "protein": 7
+    "protein": 7,
+    "updated": "2016-08-09"
   },
   {
     "name": "Breakfast Soft Taco - Sausage",
@@ -237,7 +252,8 @@
     "Carbohydrates": 15,
     "dietaryFiber": 0,
     "sugars": 0,
-    "protein": 9
+    "protein": 9,
+    "updated": "2016-08-09"
   },
   {
     "name": "Burrito Supreme® - Beef",
@@ -252,7 +268,8 @@
     "Carbohydrates": 51,
     "dietaryFiber": 8,
     "sugars": 4,
-    "protein": 17
+    "protein": 17,
+    "updated": "2016-08-09"
   },
   {
     "name": "Burrito Supreme® - Chicken",
@@ -267,7 +284,8 @@
     "Carbohydrates": 49,
     "dietaryFiber": 6,
     "sugars": 4,
-    "protein": 20
+    "protein": 20,
+    "updated": "2016-08-09"
   },
   {
     "name": "Burrito Supreme® - Steak",
@@ -282,7 +300,8 @@
     "Carbohydrates": 50,
     "dietaryFiber": 6,
     "sugars": 4,
-    "protein": 19
+    "protein": 19,
+    "updated": "2016-08-09"
   },
   {
     "name": "Caramel Apple Empanada",
@@ -297,7 +316,8 @@
     "Carbohydrates": 38,
     "dietaryFiber": 1,
     "sugars": 15,
-    "protein": 3
+    "protein": 3,
+    "updated": "2016-08-09"
   },
   {
     "name": "Chalupa Supreme® - Beef",
@@ -312,7 +332,8 @@
     "Carbohydrates": 31,
     "dietaryFiber": 4,
     "sugars": 4,
-    "protein": 13
+    "protein": 13,
+    "updated": "2016-08-09"
   },
   {
     "name": "Chalupa Supreme® - Chicken",
@@ -327,7 +348,8 @@
     "Carbohydrates": 29,
     "dietaryFiber": 2,
     "sugars": 3,
-    "protein": 16
+    "protein": 16,
+    "updated": "2016-08-09"
   },
   {
     "name": "Chalupa Supreme® - Steak",
@@ -342,7 +364,8 @@
     "Carbohydrates": 30,
     "dietaryFiber": 2,
     "sugars": 3,
-    "protein": 16
+    "protein": 16,
+    "updated": "2016-08-09"
   },
   {
     "name": "Cheese Roll-Up",
@@ -357,7 +380,8 @@
     "Carbohydrates": 15,
     "dietaryFiber": 2,
     "sugars": 0,
-    "protein": 9
+    "protein": 9,
+    "updated": "2016-08-09"
   },
   {
     "name": "Cheesy Bean & Rice Burrito",
@@ -372,7 +396,8 @@
     "Carbohydrates": 55,
     "dietaryFiber": 6,
     "sugars": 4,
-    "protein": 11
+    "protein": 11,
+    "updated": "2016-08-09"
   },
   {
     "name": "Cheesy Burrito - Bacon",
@@ -387,7 +412,8 @@
     "Carbohydrates": 37,
     "dietaryFiber": 2,
     "sugars": 3,
-    "protein": 23
+    "protein": 23,
+    "updated": "2016-08-09"
   },
   {
     "name": "Cheesy Burrito - Bacon - Fresco Style",
@@ -402,7 +428,8 @@
     "Carbohydrates": 36,
     "dietaryFiber": 2,
     "sugars": 3,
-    "protein": 16
+    "protein": 16,
+    "updated": "2016-08-09"
   },
   {
     "name": "Cheesy Burrito - Sausage",
@@ -417,7 +444,8 @@
     "Carbohydrates": 36,
     "dietaryFiber": 2,
     "sugars": 2,
-    "protein": 20
+    "protein": 20,
+    "updated": "2016-08-09"
   },
   {
     "name": "Cheesy Burrito - Sausage - Fresco Style",
@@ -432,7 +460,8 @@
     "Carbohydrates": 35,
     "dietaryFiber": 2,
     "sugars": 3,
-    "protein": 14
+    "protein": 14,
+    "updated": "2016-08-09"
   },
   {
     "name": "Cheesy Burrito - Steak",
@@ -447,7 +476,8 @@
     "Carbohydrates": 37,
     "dietaryFiber": 2,
     "sugars": 2,
-    "protein": 26
+    "protein": 26,
+    "updated": "2016-08-09"
   },
   {
     "name": "Cheesy Burrito - Steak - Fresco Style",
@@ -462,7 +492,8 @@
     "Carbohydrates": 36,
     "dietaryFiber": 2,
     "sugars": 3,
-    "protein": 19
+    "protein": 19,
+    "updated": "2016-08-09"
   },
   {
     "name": "Cheesy Fiesta Potatoes",
@@ -477,7 +508,8 @@
     "Carbohydrates": 28,
     "dietaryFiber": 2,
     "sugars": 2,
-    "protein": 3
+    "protein": 3,
+    "updated": "2016-08-09"
   },
   {
     "name": "Cheesy Gordita Crunch",
@@ -492,7 +524,8 @@
     "Carbohydrates": 41,
     "dietaryFiber": 5,
     "sugars": 4,
-    "protein": 20
+    "protein": 20,
+    "updated": "2016-08-09"
   },
   {
     "name": "Cheesy Potato Burrito",
@@ -507,7 +540,8 @@
     "Carbohydrates": 54,
     "dietaryFiber": 7,
     "sugars": 4,
-    "protein": 18
+    "protein": 18,
+    "updated": "2016-08-09"
   },
   {
     "name": "Chili Cheese Burrito (regional)",
@@ -522,7 +556,8 @@
     "Carbohydrates": 40,
     "dietaryFiber": 4,
     "sugars": 2,
-    "protein": 16
+    "protein": 16,
+    "updated": "2016-08-09"
   },
   {
     "name": "Chipotle Chicken Loaded Griller",
@@ -537,7 +572,8 @@
     "Carbohydrates": 36,
     "dietaryFiber": 2,
     "sugars": 3,
-    "protein": 14
+    "protein": 14,
+    "updated": "2016-08-09"
   },
   {
     "name": "Chips and Guacamole",
@@ -552,7 +588,8 @@
     "Carbohydrates": 32,
     "dietaryFiber": 6,
     "sugars": 1,
-    "protein": 4
+    "protein": 4,
+    "updated": "2016-08-09"
   },
   {
     "name": "Chips and Nacho Cheese Sauce",
@@ -567,7 +604,8 @@
     "Carbohydrates": 34,
     "dietaryFiber": 3,
     "sugars": 2,
-    "protein": 4
+    "protein": 4,
+    "updated": "2016-08-09"
   },
   {
     "name": "Chips and Pico de Gallo",
@@ -582,7 +620,8 @@
     "Carbohydrates": 30,
     "dietaryFiber": 3,
     "sugars": 2,
-    "protein": 3
+    "protein": 3,
+    "updated": "2016-08-09"
   },
   {
     "name": "Chips and Salsa",
@@ -597,7 +636,8 @@
     "Carbohydrates": 33,
     "dietaryFiber": 4,
     "sugars": 4,
-    "protein": 4
+    "protein": 4,
+    "updated": "2016-08-09"
   },
   {
     "name": "Cinnabon® Delights™ (12 Pack - Serves 4)",
@@ -612,7 +652,8 @@
     "Carbohydrates": 104,
     "dietaryFiber": 3,
     "sugars": 59,
-    "protein": 9
+    "protein": 9,
+    "updated": "2016-08-09"
   },
   {
     "name": "Cinnabon® Delights™ (2 Pack)",
@@ -627,7 +668,8 @@
     "Carbohydrates": 17,
     "dietaryFiber": 0,
     "sugars": 10,
-    "protein": 2
+    "protein": 2,
+    "updated": "2016-08-09"
   },
   {
     "name": "Cinnabon® Delights™ (4 Pack)",
@@ -642,7 +684,8 @@
     "Carbohydrates": 35,
     "dietaryFiber": 0,
     "sugars": 20,
-    "protein": 3
+    "protein": 3,
+    "updated": "2016-08-09"
   },
   {
     "name": "Cinnamon Twists",
@@ -657,7 +700,8 @@
     "Carbohydrates": 27,
     "dietaryFiber": 0,
     "sugars": 12,
-    "protein": 1
+    "protein": 1,
+    "updated": "2016-08-09"
   },
   {
     "name": "Combo Burrito",
@@ -672,7 +716,8 @@
     "Carbohydrates": 51,
     "dietaryFiber": 9,
     "sugars": 3,
-    "protein": 21
+    "protein": 21,
+    "updated": "2016-08-09"
   },
   {
     "name": "Cool Ranch® Doritos® Cheesy Gordita Crunch",
@@ -687,7 +732,8 @@
     "Carbohydrates": 41,
     "dietaryFiber": 4,
     "sugars": 5,
-    "protein": 20
+    "protein": 20,
+    "updated": "2016-08-09"
   },
   {
     "name": "Cool Ranch® Doritos® Double Decker® Taco",
@@ -702,7 +748,8 @@
     "Carbohydrates": 36,
     "dietaryFiber": 6,
     "sugars": 2,
-    "protein": 14
+    "protein": 14,
+    "updated": "2016-08-09"
   },
   {
     "name": "Cool Ranch® Doritos® Locos Taco",
@@ -717,7 +764,8 @@
     "Carbohydrates": 13,
     "dietaryFiber": 2,
     "sugars": 0,
-    "protein": 8
+    "protein": 8,
+    "updated": "2016-08-09"
   },
   {
     "name": "Cool Ranch® Doritos® Locos Taco Supreme®",
@@ -732,7 +780,8 @@
     "Carbohydrates": 15,
     "dietaryFiber": 3,
     "sugars": 2,
-    "protein": 8
+    "protein": 8,
+    "updated": "2016-08-09"
   },
   {
     "name": "Crunchwrap Supreme®",
@@ -747,7 +796,8 @@
     "Carbohydrates": 71,
     "dietaryFiber": 6,
     "sugars": 6,
-    "protein": 16
+    "protein": 16,
+    "updated": "2016-08-09"
   },
   {
     "name": "Crunchy Taco",
@@ -762,7 +812,8 @@
     "Carbohydrates": 13,
     "dietaryFiber": 3,
     "sugars": 0,
-    "protein": 8
+    "protein": 8,
+    "updated": "2016-08-09"
   },
   {
     "name": "Crunchy Taco Supreme®",
@@ -777,7 +828,8 @@
     "Carbohydrates": 15,
     "dietaryFiber": 3,
     "sugars": 2,
-    "protein": 8
+    "protein": 8,
+    "updated": "2016-08-09"
   },
   {
     "name": "Double Decker® Taco",
@@ -792,7 +844,8 @@
     "Carbohydrates": 36,
     "dietaryFiber": 7,
     "sugars": 2,
-    "protein": 14
+    "protein": 14,
+    "updated": "2016-08-09"
   },
   {
     "name": "Double Decker® Taco Supreme®",
@@ -807,7 +860,8 @@
     "Carbohydrates": 38,
     "dietaryFiber": 7,
     "sugars": 3,
-    "protein": 14
+    "protein": 14,
+    "updated": "2016-08-09"
   },
   {
     "name": "Double Tostada (regional)",
@@ -822,7 +876,8 @@
     "Carbohydrates": 56,
     "dietaryFiber": 9,
     "sugars": 3,
-    "protein": 16
+    "protein": 16,
+    "updated": "2016-08-09"
   },
   {
     "name": "DoubleDilla - Chicken",
@@ -837,7 +892,8 @@
     "Carbohydrates": 56,
     "dietaryFiber": 5,
     "sugars": 4,
-    "protein": 38
+    "protein": 38,
+    "updated": "2016-08-09"
   },
   {
     "name": "DoubleDilla - Chicken with Chips & Salsa",
@@ -852,7 +908,8 @@
     "Carbohydrates": 89,
     "dietaryFiber": 9,
     "sugars": 8,
-    "protein": 42
+    "protein": 42,
+    "updated": "2016-08-09"
   },
   {
     "name": "DoubleDilla - Steak",
@@ -867,7 +924,8 @@
     "Carbohydrates": 58,
     "dietaryFiber": 5,
     "sugars": 4,
-    "protein": 37
+    "protein": 37,
+    "updated": "2016-08-09"
   },
   {
     "name": "DoubleDilla - Steak with Chips & Salsa",
@@ -882,7 +940,8 @@
     "Carbohydrates": 90,
     "dietaryFiber": 9,
     "sugars": 8,
-    "protein": 41
+    "protein": 41,
+    "updated": "2016-08-09"
   },
   {
     "name": "Express Fiesta Taco Salad (regional)",
@@ -897,7 +956,8 @@
     "Carbohydrates": 63,
     "dietaryFiber": 11,
     "sugars": 6,
-    "protein": 23
+    "protein": 23,
+    "updated": "2016-08-09"
   },
   {
     "name": "Fiery Doritos® Cheesy Gordita Crunch",
@@ -912,7 +972,8 @@
     "Carbohydrates": 40,
     "dietaryFiber": 5,
     "sugars": 4,
-    "protein": 20
+    "protein": 20,
+    "updated": "2016-08-09"
   },
   {
     "name": "Fiery Doritos® Double Decker® Taco",
@@ -927,7 +988,8 @@
     "Carbohydrates": 36,
     "dietaryFiber": 7,
     "sugars": 2,
-    "protein": 14
+    "protein": 14,
+    "updated": "2016-08-09"
   },
   {
     "name": "Fiery Doritos® Locos Taco",
@@ -942,7 +1004,8 @@
     "Carbohydrates": 12,
     "dietaryFiber": 3,
     "sugars": 0,
-    "protein": 8
+    "protein": 8,
+    "updated": "2016-08-09"
   },
   {
     "name": "Fiery Doritos® Locos Taco Supreme®",
@@ -957,7 +1020,8 @@
     "Carbohydrates": 15,
     "dietaryFiber": 3,
     "sugars": 2,
-    "protein": 9
+    "protein": 9,
+    "updated": "2016-08-09"
   },
   {
     "name": "Fiesta Taco Salad - Beef",
@@ -972,7 +1036,8 @@
     "Carbohydrates": 77,
     "dietaryFiber": 11,
     "sugars": 8,
-    "protein": 27
+    "protein": 27,
+    "updated": "2016-08-09"
   },
   {
     "name": "Fiesta Taco Salad - Chicken",
@@ -987,7 +1052,8 @@
     "Carbohydrates": 73,
     "dietaryFiber": 8,
     "sugars": 7,
-    "protein": 33
+    "protein": 33,
+    "updated": "2016-08-09"
   },
   {
     "name": "Fiesta Taco Salad - Steak",
@@ -1002,7 +1068,8 @@
     "Carbohydrates": 74,
     "dietaryFiber": 8,
     "sugars": 7,
-    "protein": 32
+    "protein": 32,
+    "updated": "2016-08-09"
   },
   {
     "name": "Flatbread Sandwich - Chicken",
@@ -1017,7 +1084,8 @@
     "Carbohydrates": 32,
     "dietaryFiber": 2,
     "sugars": 3,
-    "protein": 17
+    "protein": 17,
+    "updated": "2016-08-09"
   },
   {
     "name": "Flatbread Sandwich - Steak",
@@ -1032,7 +1100,8 @@
     "Carbohydrates": 33,
     "dietaryFiber": 2,
     "sugars": 3,
-    "protein": 17
+    "protein": 17,
+    "updated": "2016-08-09"
   },
   {
     "name": "Fresco Bean Burrito",
@@ -1047,7 +1116,8 @@
     "Carbohydrates": 56,
     "dietaryFiber": 9,
     "sugars": 4,
-    "protein": 13
+    "protein": 13,
+    "updated": "2016-08-09"
   },
   {
     "name": "Fresco Burrito Supreme® - Chicken",
@@ -1062,7 +1132,8 @@
     "Carbohydrates": 48,
     "dietaryFiber": 6,
     "sugars": 4,
-    "protein": 18
+    "protein": 18,
+    "updated": "2016-08-09"
   },
   {
     "name": "Fresco Burrito Supreme® - Steak",
@@ -1077,7 +1148,8 @@
     "Carbohydrates": 48,
     "dietaryFiber": 6,
     "sugars": 4,
-    "protein": 17
+    "protein": 17,
+    "updated": "2016-08-09"
   },
   {
     "name": "Fresco Crunchy Taco - Beef",
@@ -1092,7 +1164,8 @@
     "Carbohydrates": 13,
     "dietaryFiber": 3,
     "sugars": 1,
-    "protein": 6
+    "protein": 6,
+    "updated": "2016-08-09"
   },
   {
     "name": "Fresco Soft Taco - Beef",
@@ -1107,7 +1180,8 @@
     "Carbohydrates": 18,
     "dietaryFiber": 3,
     "sugars": 2,
-    "protein": 8
+    "protein": 8,
+    "updated": "2016-08-09"
   },
   {
     "name": "Fresco Soft Taco - Shredded Chicken",
@@ -1122,7 +1196,8 @@
     "Carbohydrates": 16,
     "dietaryFiber": 2,
     "sugars": 2,
-    "protein": 10
+    "protein": 10,
+    "updated": "2016-08-09"
   },
   {
     "name": "Fresco Soft Taco - Steak",
@@ -1137,7 +1212,8 @@
     "Carbohydrates": 17,
     "dietaryFiber": 1,
     "sugars": 2,
-    "protein": 10
+    "protein": 10,
+    "updated": "2016-08-09"
   },
   {
     "name": "Gordita Supreme® - Beef",
@@ -1152,7 +1228,8 @@
     "Carbohydrates": 31,
     "dietaryFiber": 3,
     "sugars": 5,
-    "protein": 13
+    "protein": 13,
+    "updated": "2016-08-09"
   },
   {
     "name": "Gordita Supreme® - Chicken",
@@ -1167,7 +1244,8 @@
     "Carbohydrates": 29,
     "dietaryFiber": 2,
     "sugars": 5,
-    "protein": 16
+    "protein": 16,
+    "updated": "2016-08-09"
   },
   {
     "name": "Gordita Supreme® - Steak",
@@ -1182,7 +1260,8 @@
     "Carbohydrates": 30,
     "dietaryFiber": 2,
     "sugars": 5,
-    "protein": 16
+    "protein": 16,
+    "updated": "2016-08-09"
   },
   {
     "name": "Grande Scrambler Burrito - Bacon",
@@ -1197,7 +1276,8 @@
     "Carbohydrates": 64,
     "dietaryFiber": 5,
     "sugars": 5,
-    "protein": 21
+    "protein": 21,
+    "updated": "2016-08-09"
   },
   {
     "name": "Grande Scrambler Burrito - Sausage",
@@ -1212,7 +1292,8 @@
     "Carbohydrates": 64,
     "dietaryFiber": 5,
     "sugars": 4,
-    "protein": 19
+    "protein": 19,
+    "updated": "2016-08-09"
   },
   {
     "name": "Grande Scrambler Burrito - Steak",
@@ -1227,7 +1308,8 @@
     "Carbohydrates": 65,
     "dietaryFiber": 5,
     "sugars": 4,
-    "protein": 24
+    "protein": 24,
+    "updated": "2016-08-09"
   },
   {
     "name": "Grilled Breakfast Burrito - Bacon",
@@ -1242,7 +1324,8 @@
     "Carbohydrates": 37,
     "dietaryFiber": 2,
     "sugars": 3,
-    "protein": 13
+    "protein": 13,
+    "updated": "2016-08-09"
   },
   {
     "name": "Grilled Breakfast Burrito - Fiesta Potato",
@@ -1257,7 +1340,8 @@
     "Carbohydrates": 43,
     "dietaryFiber": 3,
     "sugars": 3,
-    "protein": 10
+    "protein": 10,
+    "updated": "2016-08-09"
   },
   {
     "name": "Grilled Breakfast Burrito - Sausage",
@@ -1272,7 +1356,8 @@
     "Carbohydrates": 36,
     "dietaryFiber": 2,
     "sugars": 3,
-    "protein": 11
+    "protein": 11,
+    "updated": "2016-08-09"
   },
   {
     "name": "Grilled Steak Soft Taco",
@@ -1287,7 +1372,8 @@
     "Carbohydrates": 17,
     "dietaryFiber": 1,
     "sugars": 2,
-    "protein": 12
+    "protein": 12,
+    "updated": "2016-08-09"
   },
   {
     "name": "Hashbrown",
@@ -1302,7 +1388,8 @@
     "Carbohydrates": 13,
     "dietaryFiber": 2,
     "sugars": 0,
-    "protein": 1
+    "protein": 1,
+    "updated": "2016-08-09"
   },
   {
     "name": "Loaded Potato Griller",
@@ -1317,7 +1404,8 @@
     "Carbohydrates": 50,
     "dietaryFiber": 3,
     "sugars": 4,
-    "protein": 12
+    "protein": 12,
+    "updated": "2016-08-09"
   },
   {
     "name": "Mexican Pizza",
@@ -1332,7 +1420,8 @@
     "Carbohydrates": 49,
     "dietaryFiber": 7,
     "sugars": 3,
-    "protein": 21
+    "protein": 21,
+    "updated": "2016-08-09"
   },
   {
     "name": "Meximelt®",
@@ -1347,7 +1436,8 @@
     "Carbohydrates": 19,
     "dietaryFiber": 3,
     "sugars": 2,
-    "protein": 14
+    "protein": 14,
+    "updated": "2016-08-09"
   },
   {
     "name": "Mini Skillet Bowl",
@@ -1362,7 +1452,8 @@
     "Carbohydrates": 16,
     "dietaryFiber": 1,
     "sugars": 1,
-    "protein": 5
+    "protein": 5,
+    "updated": "2016-08-09"
   },
   {
     "name": "Nacho Cheese Doritos® Cheesy Gordita Crunch",
@@ -1377,7 +1468,8 @@
     "Carbohydrates": 40,
     "dietaryFiber": 5,
     "sugars": 5,
-    "protein": 20
+    "protein": 20,
+    "updated": "2016-08-09"
   },
   {
     "name": "Nacho Cheese Doritos® Chips",
@@ -1392,7 +1484,8 @@
     "Carbohydrates": 16,
     "dietaryFiber": 1,
     "sugars": 0,
-    "protein": 2
+    "protein": 2,
+    "updated": "2016-08-09"
   },
   {
     "name": "Nacho Cheese Doritos® Double Decker® Taco",
@@ -1407,7 +1500,8 @@
     "Carbohydrates": 36,
     "dietaryFiber": 7,
     "sugars": 2,
-    "protein": 14
+    "protein": 14,
+    "updated": "2016-08-09"
   },
   {
     "name": "Nacho Cheese Doritos® Locos Taco",
@@ -1422,7 +1516,8 @@
     "Carbohydrates": 13,
     "dietaryFiber": 3,
     "sugars": 1,
-    "protein": 8
+    "protein": 8,
+    "updated": "2016-08-09"
   },
   {
     "name": "Nacho Cheese Doritos® Locos Taco Supreme®",
@@ -1437,7 +1532,8 @@
     "Carbohydrates": 15,
     "dietaryFiber": 3,
     "sugars": 2,
-    "protein": 9
+    "protein": 9,
+    "updated": "2016-08-09"
   },
   {
     "name": "Nachos BellGrande®",
@@ -1452,7 +1548,8 @@
     "Carbohydrates": 84,
     "dietaryFiber": 13,
     "sugars": 5,
-    "protein": 19
+    "protein": 19,
+    "updated": "2016-08-09"
   },
   {
     "name": "Nachos Supreme®",
@@ -1467,7 +1564,8 @@
     "Carbohydrates": 46,
     "dietaryFiber": 8,
     "sugars": 3,
-    "protein": 13
+    "protein": 13,
+    "updated": "2016-08-09"
   },
   {
     "name": "Pintos 'n Cheese",
@@ -1482,7 +1580,8 @@
     "Carbohydrates": 22,
     "dietaryFiber": 7,
     "sugars": 0,
-    "protein": 10
+    "protein": 10,
+    "updated": "2016-08-09"
   },
   {
     "name": "Power Menu Bowl - Chicken",
@@ -1497,7 +1596,8 @@
     "Carbohydrates": 46,
     "dietaryFiber": 8,
     "sugars": 3,
-    "protein": 28
+    "protein": 28,
+    "updated": "2016-08-09"
   },
   {
     "name": "Power Menu Bowl - Steak",
@@ -1512,7 +1612,8 @@
     "Carbohydrates": 48,
     "dietaryFiber": 8,
     "sugars": 3,
-    "protein": 27
+    "protein": 27,
+    "updated": "2016-08-09"
   },
   {
     "name": "Power Menu Bowl - Veggie",
@@ -1527,7 +1628,8 @@
     "Carbohydrates": 58,
     "dietaryFiber": 13,
     "sugars": 3,
-    "protein": 16
+    "protein": 16,
+    "updated": "2016-08-09"
   },
   {
     "name": "Power Menu Burrito - Chicken",
@@ -1542,7 +1644,8 @@
     "Carbohydrates": 40,
     "dietaryFiber": 4,
     "sugars": 4,
-    "protein": 26
+    "protein": 26,
+    "updated": "2016-08-09"
   },
   {
     "name": "Power Menu Burrito - Steak",
@@ -1557,7 +1660,8 @@
     "Carbohydrates": 42,
     "dietaryFiber": 4,
     "sugars": 4,
-    "protein": 25
+    "protein": 25,
+    "updated": "2016-08-09"
   },
   {
     "name": "Power Menu Burrito - Veggie",
@@ -1572,7 +1676,8 @@
     "Carbohydrates": 52,
     "dietaryFiber": 9,
     "sugars": 5,
-    "protein": 14
+    "protein": 14,
+    "updated": "2016-08-09"
   },
   {
     "name": "Premium Latin Rice",
@@ -1587,7 +1692,8 @@
     "Carbohydrates": 18,
     "dietaryFiber": 0,
     "sugars": 0,
-    "protein": 2
+    "protein": 2,
+    "updated": "2016-08-09"
   },
   {
     "name": "Quesadilla - Cheese",
@@ -1602,7 +1708,8 @@
     "Carbohydrates": 37,
     "dietaryFiber": 4,
     "sugars": 3,
-    "protein": 19
+    "protein": 19,
+    "updated": "2016-08-09"
   },
   {
     "name": "Quesadilla - Chicken",
@@ -1617,7 +1724,8 @@
     "Carbohydrates": 38,
     "dietaryFiber": 4,
     "sugars": 3,
-    "protein": 27
+    "protein": 27,
+    "updated": "2016-08-09"
   },
   {
     "name": "Quesadilla - Steak",
@@ -1632,7 +1740,8 @@
     "Carbohydrates": 38,
     "dietaryFiber": 4,
     "sugars": 3,
-    "protein": 27
+    "protein": 27,
+    "updated": "2016-08-09"
   },
   {
     "name": "Quesarito - Beef",
@@ -1647,7 +1756,8 @@
     "Carbohydrates": 65,
     "dietaryFiber": 5,
     "sugars": 4,
-    "protein": 21
+    "protein": 21,
+    "updated": "2016-08-09"
   },
   {
     "name": "Quesarito - Chicken",
@@ -1662,7 +1772,8 @@
     "Carbohydrates": 64,
     "dietaryFiber": 4,
     "sugars": 5,
-    "protein": 24
+    "protein": 24,
+    "updated": "2016-08-09"
   },
   {
     "name": "Quesarito - Steak",
@@ -1677,7 +1788,8 @@
     "Carbohydrates": 64,
     "dietaryFiber": 3,
     "sugars": 4,
-    "protein": 24
+    "protein": 24,
+    "updated": "2016-08-09"
   },
   {
     "name": "Sausage Flatbread Quesadilla",
@@ -1692,7 +1804,8 @@
     "Carbohydrates": 27,
     "dietaryFiber": 2,
     "sugars": 3,
-    "protein": 14
+    "protein": 14,
+    "updated": "2016-08-09"
   },
   {
     "name": "Shredded Chicken Burrito",
@@ -1707,7 +1820,8 @@
     "Carbohydrates": 45,
     "dietaryFiber": 3,
     "sugars": 3,
-    "protein": 16
+    "protein": 16,
+    "updated": "2016-08-09"
   },
   {
     "name": "Shredded Chicken Mini Quesadilla",
@@ -1722,7 +1836,8 @@
     "Carbohydrates": 15,
     "dietaryFiber": 2,
     "sugars": 1,
-    "protein": 12
+    "protein": 12,
+    "updated": "2016-08-09"
   },
   {
     "name": "Smothered Burrito - Beef",
@@ -1737,7 +1852,8 @@
     "Carbohydrates": 69,
     "dietaryFiber": 11,
     "sugars": 4,
-    "protein": 28
+    "protein": 28,
+    "updated": "2016-08-09"
   },
   {
     "name": "Smothered Burrito - Shredded Chicken",
@@ -1752,7 +1868,8 @@
     "Carbohydrates": 66,
     "dietaryFiber": 9,
     "sugars": 4,
-    "protein": 33
+    "protein": 33,
+    "updated": "2016-08-09"
   },
   {
     "name": "Smothered Burrito - Steak",
@@ -1767,7 +1884,8 @@
     "Carbohydrates": 66,
     "dietaryFiber": 8,
     "sugars": 4,
-    "protein": 33
+    "protein": 33,
+    "updated": "2016-08-09"
   },
   {
     "name": "Soft Taco - Beef",
@@ -1782,7 +1900,8 @@
     "Carbohydrates": 17,
     "dietaryFiber": 3,
     "sugars": 1,
-    "protein": 9
+    "protein": 9,
+    "updated": "2016-08-09"
   },
   {
     "name": "Soft Taco - Chicken",
@@ -1797,7 +1916,8 @@
     "Carbohydrates": 16,
     "dietaryFiber": 2,
     "sugars": 1,
-    "protein": 12
+    "protein": 12,
+    "updated": "2016-08-09"
   },
   {
     "name": "Soft Taco Supreme® - Beef",
@@ -1812,7 +1932,8 @@
     "Carbohydrates": 20,
     "dietaryFiber": 3,
     "sugars": 2,
-    "protein": 10
+    "protein": 10,
+    "updated": "2016-08-09"
   },
   {
     "name": "Spicy Potato Soft Taco",
@@ -1827,7 +1948,8 @@
     "Carbohydrates": 27,
     "dietaryFiber": 2,
     "sugars": 1,
-    "protein": 5
+    "protein": 5,
+    "updated": "2016-08-09"
   },
   {
     "name": "Spicy Tostada",
@@ -1842,7 +1964,8 @@
     "Carbohydrates": 46,
     "dietaryFiber": 5,
     "sugars": 2,
-    "protein": 10
+    "protein": 10,
+    "updated": "2016-08-09"
   },
   {
     "name": "Triple Double Crunchwrap Original",
@@ -1857,7 +1980,8 @@
     "Carbohydrates": 85,
     "dietaryFiber": 9,
     "sugars": 7,
-    "protein": 23
+    "protein": 23,
+    "updated": "2016-08-09"
   },
   {
     "name": "Triple Double Crunchwrap Spicy",
@@ -1872,7 +1996,8 @@
     "Carbohydrates": 87,
     "dietaryFiber": 9,
     "sugars": 8,
-    "protein": 23
+    "protein": 23,
+    "updated": "2016-08-09"
   },
   {
     "name": "Triple Layer Nachos",
@@ -1887,7 +2012,8 @@
     "Carbohydrates": 41,
     "dietaryFiber": 6,
     "sugars": 2,
-    "protein": 7
+    "protein": 7,
+    "updated": "2016-08-09"
   },
   {
     "name": "XXL Grilled Stuft Burrito - Beef",
@@ -1902,7 +2028,8 @@
     "Carbohydrates": 91,
     "dietaryFiber": 12,
     "sugars": 6,
-    "protein": 32
+    "protein": 32,
+    "updated": "2016-08-09"
   },
   {
     "name": "XXL Grilled Stuft Burrito - Chicken",
@@ -1917,7 +2044,8 @@
     "Carbohydrates": 87,
     "dietaryFiber": 9,
     "sugars": 6,
-    "protein": 38
+    "protein": 38,
+    "updated": "2016-08-09"
   },
   {
     "name": "XXL Grilled Stuft Burrito - Steak",
@@ -1932,6 +2060,7 @@
     "Carbohydrates": 88,
     "dietaryFiber": 9,
     "sugars": 6,
-    "protein": 37
+    "protein": 37,
+    "updated": "2016-08-09"
   }
 ]
