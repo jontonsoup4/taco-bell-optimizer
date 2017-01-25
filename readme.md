@@ -13,6 +13,7 @@ make
 api/menu/{type}                returns all of type
 api/sort/{type}/{property}     returns type sorted by property
 api/value/{type}/{property}    returns type sorted by (cost / property)
+api/value/{money}/{type}/{property}    returns type sorted by ((cost / property) / money)
     
 ?reverse=true                  reverses order
     
@@ -80,6 +81,12 @@ api/value/food/calories?reverse=true
     }
 ]
 ```
+
+# Example Integration:
+sample_search.html has a simple jQuery Integration. Drag it into a web browser to try it out.
+
+Low Sodium Search Example
+[Low Sodium Search](http://i.imgur.com/6M7Bdmg.png "Low Sodium Search")
 
 ## ToDo:
 * Add combos

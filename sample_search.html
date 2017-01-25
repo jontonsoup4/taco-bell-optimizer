@@ -1,0 +1,131 @@
+<html>
+<head>
+	<title>Taco Bell Comparison</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+	<!-- Compiled and minified CSS -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
+
+	<!-- Compiled and minified JavaScript -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
+
+	<script>
+	$(document).ready(function() {
+		$('select').material_select();
+
+		function getResults(){
+			var money = $("#money").val()
+			var criteria = $("#type").find(":selected").val()
+			var reversed = $("#reverse_order").find(":selected").val()
+			var url_food = "http://lvh.me:8000/api/value/" + money + "/food/" + criteria + "?reverse=" + reversed
+			var url_drinks = "http://lvh.me:8000/api/value/" + money + "/drinks/" + criteria + "?reverse=" + reversed
+
+			$.get(url_food, function(data){
+				if (data.length == 0){
+					$("#food_results").html("<p>No Valid Options</p>")
+				}
+				else {
+					$("#food_results").html("")
+					for (var i in data){
+						$("#food_results").append("<p>Item: " + data[i].name + "</p><p>Cost: $" + data[i].cost +"</span></p><br>")
+					}
+				}
+			}).fail(function(e){
+				$("#food_results").html("<p>Error Retrieving Info</p>")
+			});
+
+			$.get(url_drinks, function(data){
+				if (data.length == 0){
+					$("#drink_results").html("<p>No Valid Options</p>")
+				}
+				else{
+					$("#drink_results").html("")
+					for (var i in data){
+						$("#drink_results").append("<p>Item: " + data[i].name + "</p><p>Cost: $" + data[i].cost +"</span></p><br>")
+					}
+				}
+			}).fail(function(e){
+				$("#drink_results").html("<p>Error Retrieving Info</p>")
+			});
+		}
+
+		$('#money').on('change', function(){
+			getResults()
+		});
+
+		$('#type').on('change', function(){
+			getResults()
+		});
+
+		$('#reverse_order').on('change', function(){
+			getResults()
+		});
+	});
+	</script>
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col s4">
+				<div class="card">
+					<div class="card-content">
+						<span class="card-title">Food Options</span>
+						<div id="food_results">
+							<p>No Valid Options</p>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col s4">
+				<div class="card">
+					<div class="card-content">
+						<span class="card-title">Search Options</span>
+
+						<div class="input-field">
+							<input id="money" type="number" value=0>
+							<label for="money">Money Available: </label>
+						</div>
+
+						<div class="input-field">
+							<select id="type">
+								<option value="calories">calories</option>
+								<option value="caloriesfromfat">caloriesfromfat</option>
+								<option value="totalfat">totalfat</option>
+								<option value="saturatedfat">saturatedfat</option>
+								<option value="transfat">transfat</option>
+								<option value="cholesterol">cholesterol</option>
+								<option value="sodium">sodium</option>
+								<option value="totalcarbohydrates">totalcarbohydrates</option>
+								<option value="dietaryfiber">dietaryfiber</option>
+								<option value="sugars">sugars</option>
+								<option value="protein">protein</option>
+							</select>
+							<label for="type">Optimize For: </label>
+						</div>
+
+						<div class="input-field">
+							<select id="reverse_order">
+								<option value="false">Decreasing</option>
+								<option value="true">Increasing</option>
+							</select>
+							<label for="reverse_order">Return Order: </label>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col s4">
+				<div class="card">
+					<div class="card-content">
+						<span class="card-title">Drink Options</span>
+						<div id="drink_results">
+							<p>No Valid Options</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
