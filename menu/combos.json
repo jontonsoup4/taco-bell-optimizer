@@ -1,0 +1,22 @@
+
+[
+  {
+	"name": "Triple Double Chunchwrap Big Box",
+	"cost": 5.00,
+	"includes": "{{\"Triple Double Crunchwrap\",1},{\"Nacho Cheese Doritos® Locos Tacos\",1},{\"Crunchy Taco\",1}",
+	"calorie-range":"1030-1400",
+	"calories": 1040,
+	"caloriesFromFat": 440,
+	"totalFat": 48,
+	"saturatedFat": 16,
+	"transFat": 0.5,
+	"cholesterol": 95, 
+	"sodium": 2110, 
+	"carbohydrates": 111,
+	"dietaryFiber": 15, 
+	"sugars": 8,
+	"protein": 48,
+	"allergens": "gluten,milk,wheat,soy",
+	"updated": "2016-08-09"
+  }
+]
